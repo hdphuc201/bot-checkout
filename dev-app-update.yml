@@ -1,0 +1,3 @@
+provider: generic
+url: https://updates.example.com/automation-console
+updaterCacheDirName: automation-console-updater
